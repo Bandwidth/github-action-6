@@ -15,6 +15,9 @@ yarn-error.log*
 # For Yarn Classic and Yarn Modern without Zero-Installs
 # see https://yarnpkg.com/getting-started/qa/#which-files-should-be-gitignored
 
+
+
+
 examples/**/.pnp.*
 examples/**/.yarn/*
 !examples/**/.yarn/patches
